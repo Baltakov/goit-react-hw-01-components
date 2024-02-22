@@ -13,11 +13,11 @@
   width: 16px;
   height: 16px;
   border-radius: 50%;
-  background-color: green;
+  /* background-color: green; */
   margin-top: auto;
   margin-bottom: auto;
 }
-
+/* 
 .isOffline {
   width: 16px;
   height: 16px;
@@ -25,4 +25,4 @@
   background-color: gray;
   margin-top: auto;
   margin-bottom: auto;
-}
+} */
